@@ -3,7 +3,7 @@ package com.capgemini.javademo;
 public class Heello {
 	public static void main(String[]args) {
 		Bus Bus= new Bus();
-		Bus.setDoors("close");
+		Bus.setDoors("closed");
 		Bus.setSpeed(10);
 		System.out.println(Bus.run());
 	}
