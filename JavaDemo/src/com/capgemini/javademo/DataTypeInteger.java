@@ -1,4 +1,4 @@
-//Primitive Data type program
+//2 Primitive Data type program
 package com.capgemini.javademo;
 
 //class is declared
